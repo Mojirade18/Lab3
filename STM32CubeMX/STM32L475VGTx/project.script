@@ -1,0 +1,5 @@
+loadboard B-L475E-IOT01A allmodes
+project name STM32CubeMX
+project toolchain "MDK-ARM V5"
+project path "C:\Users\user\Documents\iot\Lab3\STM32CubeMX\STM32L475VGTx"
+SetCopyLibrary "copy only"
